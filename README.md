@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Niall</h1>
+<h1 align="center">Hello there, Niall</h1>
 <h3 align="center">Let's solve problems together !</h3>
 
 - 🔭 I’m currently working on **my finalproject at @TheHackingProject (Rails backend & React frontend)**
@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Ruby on Rails & React**
+
+- 👨‍💻 All of my projects are available at [https://niallburdon.com](https://niallburdon.com)
 
 - 💬 Ask me about **React**
 
