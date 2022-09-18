@@ -11,8 +11,6 @@ I am currently looking for a trainee position in a company in Madrid that would 
 
 - 👯 I’m looking to collaborate on **Ruby on Rails & React**
 
-- 👨‍💻 All of my projects are available at [https://niallburdon.com](https://niallburdon.com)
-
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **niall.burdon@gmail.com**
