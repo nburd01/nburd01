@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, 👉 I'm Niall</h1>
 <h3 align="center">Let's solve problems together !</h3>
 <hp align="center">With several rewarding experiences in the digital marketing sector and an appetite for technology, I naturally wanted to direct my energy towards web development.	
-I am currently looking for a trainee position in a company in Madrid that would be keen to hire me in the future.</p>
+I am currently looking to collaborate with an organisation with ideas on how to build a better world </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nburd01" alt="nburd01" /></a> </p>
 
