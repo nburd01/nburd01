@@ -5,11 +5,11 @@ I am currently looking for a trainee position in a company in Madrid that would 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nburd01" alt="nburd01" /></a> </p>
 
-- 🔭 I’m currently working on **my finalproject at @TheHackingProject (Rails backend & React frontend)**
+- 🔭 I’m currently working on **finding projects that make sense**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently deepening my kowledge on **React.js**
 
-- 👯 I’m looking to collaborate on **Ruby on Rails & React**
+- 👯 I’m looking to collaborate on a **Collaborative Project**
 
 - 💬 Ask me about **React**
 
