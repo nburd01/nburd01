@@ -1,7 +1,3 @@
-Here’s a GitHub README inspired by your description and formatted similarly to the example provided:
-
----
-
 <h1 align="center">Hi, I'm Niall</h1>
 <h3 align="center">Helping businesses grow with digital transformation & user-centric solutions 🚀</h3>
 
