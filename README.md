@@ -1,30 +1,55 @@
-<h1 align="center">Hello there, 👉 I'm Niall</h1>
-<h3 align="center">Let's solve problems together !</h3>
-<hp align="center">With several rewarding experiences in the digital marketing sector and an appetite for technology, I naturally wanted to direct my energy towards web development.	
-I am currently looking to collaborate with an organisation with ideas on how to build a better world </p>
+Bilingual Digital Transformation Consultant | Web Development (React.js & Vue.js) | Specialist in Marketing, Product, and Sales
+🎯 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nburd01" alt="nburd01" /></a> </p>
+I am a bilingual Digital Transformation Consultant with a strong blend of business acumen and technical expertise. My background in strategic marketing, sales, and web development (React.js & Vue.js) enables me to deliver innovative, user-centered solutions that optimize customer journeys and drive measurable business results.
+🔍 Professional Expertise
 
-- 🔭 I’m currently working on **finding projects that make sense**
+With a Master’s degree in Strategic Marketing and substantial experience in web development, I bring the following capabilities to the table:
 
-- 🌱 I’m currently deepening my kowledge on **React.js**
+    Commercial and Marketing Strategies
+    Crafting strategies to boost sales, improve customer retention, and enhance overall performance.
 
-- 👯 I’m looking to collaborate on a **Collaborative Project**
+    Customer Relationship & Negotiation
+    Supporting sales teams by addressing customer-specific needs and aligning product/service offerings to meet them.
 
-- 💬 Ask me about **React**
+    Digital Process Optimization
+    Designing seamless user journeys and UX/UI interfaces to maximize conversions and customer satisfaction.
 
-- 📫 How to reach me **niall.burdon@gmail.com**
+💡 Core Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/niallburdon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niallburdon" height="30" width="40" /></a>
-</p>
+    Sales & Growth
+    Developing strategies to accelerate customer acquisition, engagement, and retention using high-performing digital tools.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+    Digital Transformation
+    Guiding organizations in adopting digital tools to enhance operational efficiency and sales effectiveness.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nburd01&show_icons=true&locale=en&layout=compact" alt="nburd01" /></p>
+    Marketing & Sales
+    Managing projects to enhance visibility, generate leads, and elevate the customer experience.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nburd01&show_icons=true&locale=en" alt="nburd01" /></p>
+    Customer-Centric Solutions
+    Prioritizing user needs to build trust-based, long-term relationships.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nburd01&" alt="nburd01" /></p>
+🌱 Why Choose Me?
+
+With my hybrid background in sales, marketing, and technical expertise, I am uniquely equipped to:
+
+    Understand customer needs in-depth and deliver tailored, impactful solutions.
+    Contribute to the design and development of user-centric digital products.
+    Drive international business growth, leveraging bilingual fluency (French/English) and Spanish proficiency.
+
+I continually enhance my skills in product management and commercial strategy to stay at the forefront of delivering value to my partners and clients.
+📌 What I’m Looking For
+
+I’m seeking opportunities to:
+
+    Drive business development through sales and customer relationship management.
+    Design innovative, user-focused digital products.
+    Contribute to global growth with my multilingual and multicultural expertise.
+
+🌟 Technical Skills
+
+    Programming Languages & Frameworks: React.js, Vue.js, JavaScript, HTML/CSS
+    UX/UI Design: User-centered design principles, customer journey mapping, and optimization.
+    Tools & Platforms: Marketing automation tools, CRM systems, and data-driven decision-making frameworks.
+
+This GitHub resume positions your skills for a global audience while highlighting your multilingual and multidisciplinary strengths. Let me know if you’d like further adjustments!
