@@ -2,7 +2,7 @@ Here’s a GitHub README inspired by your description and formatted similarly to
 
 ---
 
-<h1 align="center">Hello there, 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi, I'm Niall</h1>
 <h3 align="center">Helping businesses grow with digital transformation & user-centric solutions 🚀</h3>
 
 <p align="center">
