@@ -9,8 +9,6 @@ Here’s a GitHub README inspired by your description and formatted similarly to
 With a unique blend of technical and business expertise, I specialize in digital transformation, web development (React.js & Vue.js), and crafting customer-centric marketing and sales strategies. Let's work together to optimize user experiences and drive measurable growth!
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=your-username" alt="your-username" /></a> </p>
-
 - 🔭 I’m currently working on **digital transformation projects that enhance user journeys and business growth**  
 
 - 🌱 I’m currently learning more about **advanced React.js and UX/UI best practices**  
@@ -19,7 +17,7 @@ With a unique blend of technical and business expertise, I specialize in digital
 
 - 💬 Ask me about **digital transformation, customer journey optimization, or sales strategies**  
 
-- 📫 How to reach me: **your-email@example.com**  
+- 📫 How to reach me: **niall.burdon@gmail.com**  
 
 ---
 
